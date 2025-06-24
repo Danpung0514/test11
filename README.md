@@ -12,3 +12,11 @@
 ```
 ---
 안녕히계세요
+안녕히가세요
+---
+## 자바인척
+```java
+  public static void main(String[] args){
+    int num1 = 10;
+  } 
+```
