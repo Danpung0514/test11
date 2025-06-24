@@ -6,7 +6,7 @@
 ---
 ```js
   let a = 10;
-  function test(){
+    function test(){
     console.log("이곳에 코드를 넣어야겠지?")
   }
 ```
@@ -20,3 +20,5 @@
     int num1 = 10;
   } 
 ```
+
+### 집가고싶지 않니?
